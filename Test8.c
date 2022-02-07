@@ -8,5 +8,7 @@ int main()
     printf("Input B=");scanf("%d",&b);
     if(a>b)
      printf("A is greater than B");
+    else
+    printf("B is greater than A");
     return 0;
 }
